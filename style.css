@@ -3,6 +3,14 @@ body {
     margin: 0;
 }
 
+.section-one {
+    margin-bottom: 20%;
+}
+
+.section-two {
+    margin-bottom: 10%;
+}
+
 .help {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -39,4 +47,67 @@ body {
 
 .bg-link {
     text-align: center;
+}
+
+.donate {
+    text-align: center;
+}
+
+.amount {
+    display: flex;
+    font-size: x-large;
+}
+
+.oh {
+    margin-left: 23%;
+    margin-top: 4%;
+    margin-right: 5%;
+}
+
+.th {
+    margin-top: 2%;
+    margin-right: 5%;
+    color: #FF5959;
+    background-image: linear-gradient(#FFEEEE, #FFEEEE);
+    padding: 2%;
+    border: 2px solid;
+    border-radius: 5px;
+}
+
+.fh {
+    margin-top: 4%;
+    margin-right: 5%;
+}
+
+.ot {
+    margin-top: 4%;
+    margin-right: 5%;
+}
+
+.ft {
+    margin-top: 4%;
+    margin-right: 17%;
+}
+
+input {
+    border: none;
+    border-bottom: 2px solid #DADADA;
+    width: 56%;
+    margin-left: 23%;
+    margin-right: 27%;
+}
+
+.input {
+    margin-bottom: 2%;
+}
+
+.taka {
+    color: #DADADA;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.donate-text {
+    font-size: 30px;
+    font-weight: 900;
 }
