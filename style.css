@@ -154,3 +154,57 @@ input {
     display: flex;
     margin-top: 5%;
 }
+
+.section-four {
+    display: flex;
+    margin-bottom: 10%;
+}
+
+.section-five {
+    display: flex;
+    margin-bottom: 10%;
+}
+
+.lives-image img {
+    width: 85%;
+}
+
+.lives {
+    width: 50%;
+    margin-left: 17%;
+}
+
+.lives-image {
+    width: 50%;
+    margin-right: 23%;
+}
+
+.fs {
+    font-size: x-small;
+
+}
+
+.div-margin {
+    margin-bottom: 8%;
+}
+
+.survive-image {
+    width: 50%;
+    margin-left: 17%;
+    margin-right: 3%;
+}
+
+
+.survive-image img {
+    width: 100%;
+    height: 100%;
+}
+
+.survive {
+    width: 50%;
+    margin-right: 23%;
+}
+
+.updates {
+    text-align: center;
+}
