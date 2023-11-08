@@ -165,6 +165,10 @@ input {
     margin-bottom: 10%;
 }
 
+.section-six {
+    margin-bottom: 10%;
+}
+
 .lives-image img {
     width: 85%;
 }
@@ -207,4 +211,39 @@ input {
 
 .updates {
     text-align: center;
+    margin-bottom: 2%;
+}
+
+.email {
+    box-sizing: border-box;
+    border: 1px solid;
+    padding: 5%;
+    background-image: linear-gradient(#D9D9D9, #D9D9D9);
+    border-style: none;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.subscribe {
+    box-sizing: border-box;
+    border: 1px solid;
+    padding: 10%;
+    border-style: none;
+    width: 100px;
+    background-image: linear-gradient(#FF5959, #FF5959);
+    color: white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.link-input {
+    display: flex;
+    margin-left: 38%;
+    padding: 6% 2% 6% 10%;
+}
+
+.link-image {
+    background-image: linear-gradient(#FFF4D6, #FFF4D6);
+    margin-left: 25%;
+    margin-right: 25%;
 }
